@@ -1,0 +1,18 @@
+{
+  "name": "discordchat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "debug": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "axios-https-proxy-fix": "^0.17.1",
+    "qs": "^6.10.3"
+  }
+}

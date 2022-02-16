@@ -1,0 +1,74 @@
+{
+  "autoBot" : false,
+  "proxy" : {
+    "enable" : true,
+    "host" : "172.23.23.83",
+    "port" : 7890
+  },
+  "token" : "NjMwNDYyMTIzMDA0MjY0NDkw.YgEiQw.-nEDMP0L_FGq74kqhFWdeh0BfsY",
+  "config" : [
+    {
+      "channelName": "Heyna",
+      "channelID" : "937199238071324715",
+      "timeInterval": 180,
+      "duration": 1,
+      "enableDelete": false
+  }
+  ],
+  "bot": [
+    {
+      "message": "we will all get the chance guys~"
+    },
+    {
+      "message": "don't forget to modify your name suffix"
+    },
+    {
+      "message": "I'm doing great mate"
+    },
+    {
+      "message": "welcome to the new friends~"
+    },
+    {
+      "message": "hhhhh"
+    },
+    {
+      "message": "don't give up"
+    },
+    {
+      "message": "looool"
+    },
+    {
+      "message": "Is time for a cup of coffee~"
+    },
+    {
+      "message": "be careful with ur body, don't spend tooooo much time for getting the wl"
+    },
+    {
+      "message": "hope u enjoy it"
+    },
+    {
+      "message": "ty mate"
+    },
+    {
+      "message": "do not trust any DM guys, remember!!!"
+    },
+    {
+      "message": "or u can close the DM from setting"
+    },
+    {
+      "message": "just be careful not be scamed"
+    },
+    {
+      "message": "if u guys have any questions, just ask me"
+    },
+    {
+      "message": "love this team and love u all guys"
+    },
+    {
+      "message": "I really like stay here with all of u"
+    },
+    {
+      "message": "coffee time"
+    }
+  ]
+}
